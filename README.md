@@ -9,6 +9,7 @@ This butler is a plguin based bot build on top of [Slackbotify](https://www.gith
 
 ## Plugins
 At the moment the following plugins are available:
+- [butler-jokes](https://github.com/Slackbotify/butler-jokes) _Add some fun with jokes!_
 - [butler-vid](https://github.com/Slackbotify/butler-vid.nl) _Traffic incidents for the roads in Holland_
 - [butler-weather](https://github.com/Slackbotify/butler-weather) _Weather forecast plguin_
 
