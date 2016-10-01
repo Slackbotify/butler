@@ -5,7 +5,7 @@
 > Create your own personal butler in slack!
 
 ## Usage
-This butler is a plguin based bot build on top of [Slackbotify](https://www.github.com/Slackbotify/Slackbotify). It comes with the `plugin-loader` plugin. The idea is to create a bot which can be easily extended with plugins.
+This butler is a plguin based bot build on top of [Slackbotify](https://www.github.com/Slackbotify/Slackbotify). It comes with the [plugin-loader](https://github.com/Slackbotify/butler-plugin-loader) plugin. The idea is to create a bot which can be easily extended with plugins.
 
 ## Plugins
 At the moment the following plugins are available:
