@@ -47,4 +47,4 @@ If a config file is not ideal for your setup use environment variables. You can 
 |-------------|-----|----------|
 | The slack token for this slackbot | BL_SLACK_KEY | ✓ |
 | The name of the slackbot | BL_SLACK_NAME | ✓ |
-| Forecast.IO Api key | BL_WEATHER_KEY | ✓ |
+| Forecast.IO Api key | BL_WEATHER_KEY |  |
